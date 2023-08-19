@@ -1,0 +1,19 @@
+.btn-container {
+    margin-top: 10px;
+}
+
+.srv-name-container{
+    margin-top: 5px;
+}
+
+.srv-status-container {
+    margin-top: 10px;
+}
+
+.label-srv-name{
+    font-weight: bold;
+}
+
+.label-srv-status {
+    font-weight: bold;
+}
